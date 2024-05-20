@@ -1,0 +1,1 @@
+newman run Noshi_01998322964.postman_collection.json -e Noshi_01998322964.postman_environment.json -r cli,htmlextra
